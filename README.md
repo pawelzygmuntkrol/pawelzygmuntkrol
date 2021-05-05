@@ -8,7 +8,7 @@
 - <i>CSS</i>
 - <i>SASS (SCSS)</i>
 - <i>BEM</i>
-- <i>Java Script</i>
+- <i>JavaScript</i>
 - <i>React (Hooks, Router)</i>
 - <i>Styled Components</i>
 - <i>Git</i>
