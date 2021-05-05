@@ -1,11 +1,9 @@
-Hi, I’m @pawelzygmuntkrol, aspiring front-end developer, currently looking for work.
-
-Languages:
+<b>Languages:</b>
 - <i>Polish (native)</i>
 - <i>English</i>
 - <i>Russian (learning)</i>
 
-Technologies I used in my projects:
+<b>Technologies I used in my projects:</b>
 - <i>HTML</i>
 - <i>CSS</i>
 - <i>SASS (SCSS)</i>
@@ -20,15 +18,15 @@ Technologies I used in my projects:
 - <i>Prettier</i>
 - <i>EsLint</i>
 
-Technologies I have learned but have not yet used in my projects:
+<b>Technologies I have learned but have not yet used in my projects:</b>
 - <i>Bootstrap</i>
 - <i>jQuery</i>
 - <i>REST API</i>
 
-Technologies I want to learn in the near future:
+<b>Technologies I want to learn in the near future:</b>
 - <i>Testing (Jest, Enzyme, Cypress.io)</i>
 
-How I spend my free time:
+<b>How I spend my free time:</b>
 - <i>Cycling</i>
 - <i>Bushcraft</i>
 - <i>Languages</i>
