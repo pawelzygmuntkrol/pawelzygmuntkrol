@@ -25,8 +25,9 @@
 
 <b>Technologies I want to learn in the near future:</b>
 - <i>Testing (Jest, Enzyme, Cypress.io)</i>
+- <i>Redux</i>
 
 <b>How I spend my free time:</b>
-- <i>Cycling</i>
-- <i>Bushcraft</i>
-- <i>Languages</i>
+- <i>cycling</i>
+- <i>bushcraft</i>
+- <i>foreign languages</i>
