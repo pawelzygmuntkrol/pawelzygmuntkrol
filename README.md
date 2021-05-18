@@ -13,6 +13,7 @@
 - <i>Styled Components</i>
 - <i>Git</i>
 - <i>GitHub</i>
+- <i>Netlify</i>
 - <i>NPM</i>
 - <i>Webpack</i>
 - <i>Prettier</i>
